@@ -41,7 +41,7 @@ if response.status_code == 200:
             print(f"Link: {full_link}")
             print(f"Date: {date}")
             print(f"claim: {claim}")
-            print(f"claim: {image}")
+            print(f"image: {image}")
             print("-" * 50)
     with open("soch_factcheck_articles.csv", "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=["Title", "Link", "Date", "claim", "image"])

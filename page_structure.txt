@@ -1,0 +1,2716 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400..700&amp;display=swap" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap" rel="stylesheet"/>
+  <meta content="https://www.sochfactcheck.com/wp-content/uploads/2024/06/preview.png" property="og:image"/>
+  <meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots"/>
+  <!-- This site is optimized with the Yoast SEO plugin v23.3 - https://yoast.com/wordpress/plugins/seo/ -->
+  <title>
+   Latest Posts - Soch Fact Check
+  </title>
+  <link href="https://www.sochfactcheck.com/latest-posts/" rel="canonical">
+   <meta content="en_GB" property="og:locale"/>
+   <meta content="article" property="og:type"/>
+   <meta content="Latest Posts - Soch Fact Check" property="og:title"/>
+   <meta content="https://www.sochfactcheck.com/latest-posts/" property="og:url"/>
+   <meta content="Soch Fact Check" property="og:site_name"/>
+   <meta content="summary_large_image" name="twitter:card"/>
+   <meta content="@SochFactCheck" name="twitter:site"/>
+   <meta content="Written by" name="twitter:label1"/>
+   <meta content="admin" name="twitter:data1"/>
+   <script class="yoast-schema-graph" type="application/ld+json">
+    {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.sochfactcheck.com/latest-posts/","url":"https://www.sochfactcheck.com/latest-posts/","name":"Latest Posts - Soch Fact Check","isPartOf":{"@id":"https://www.sochfactcheck.com/#website"},"datePublished":"2024-06-24T10:50:56+00:00","dateModified":"2024-06-24T10:50:56+00:00","inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.sochfactcheck.com/latest-posts/"]}]},{"@type":"WebSite","@id":"https://www.sochfactcheck.com/#website","url":"https://www.sochfactcheck.com/","name":"Soch Fact Check","description":"سوچو پھر بولو","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.sochfactcheck.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}
+   </script>
+   <!-- / Yoast SEO plugin. -->
+   <link href="//cdnjs.cloudflare.com" rel="dns-prefetch">
+    <style id="co-authors-plus-coauthors-style-inline-css" type="text/css">
+     .wp-block-co-authors-plus-coauthors.is-layout-flow [class*=wp-block-co-authors-plus]{display:inline}
+    </style>
+    <style id="co-authors-plus-avatar-style-inline-css" type="text/css">
+     .wp-block-co-authors-plus-avatar :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-avatar :where(img){vertical-align:middle}.wp-block-co-authors-plus-avatar:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-avatar.aligncenter{display:table;margin-inline:auto}
+    </style>
+    <style id="co-authors-plus-image-style-inline-css" type="text/css">
+     .wp-block-co-authors-plus-image{margin-bottom:0}.wp-block-co-authors-plus-image :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-image :where(img){vertical-align:middle}.wp-block-co-authors-plus-image:is(.alignfull,.alignwide) :where(img){width:100%}.wp-block-co-authors-plus-image:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-image.aligncenter{display:table;margin-inline:auto}
+    </style>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css?ver=6.5.5" id="bootstrap-css-css" media="all" rel="stylesheet" type="text/css">
+     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css?ver=6.5.5" id="font-awesome-css" media="all" rel="stylesheet" type="text/css">
+      <link href="https://www.sochfactcheck.com/wp-content/themes/custom-theme/style.css?ver=6.5.5" id="theme-style-css" media="all" rel="stylesheet" type="text/css">
+       <link href="https://www.sochfactcheck.com/wp-content/themes/custom-theme/assets/css/article-box.css?v=1.1&amp;ver=6.5.5" id="article-box-styles-css" media="all" rel="stylesheet" type="text/css"/>
+       <script id="jquery-core-js" src="https://www.sochfactcheck.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" type="text/javascript">
+       </script>
+       <link href="https://www.sochfactcheck.com/wp-json/" rel="https://api.w.org/"/>
+       <link href="https://www.sochfactcheck.com/wp-json/wp/v2/pages/11955" rel="alternate" type="application/json"/>
+       <link href="https://www.sochfactcheck.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+       <meta content="WordPress 6.5.5" name="generator"/>
+       <link href="https://www.sochfactcheck.com/?p=11955" rel="shortlink"/>
+       <link href="https://www.sochfactcheck.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sochfactcheck.com%2Flatest-posts%2F" rel="alternate" type="application/json+oembed"/>
+       <script type="text/javascript">
+        var ajaxurl = "https://www.sochfactcheck.com/wp-admin/admin-ajax.php";
+       </script>
+       <style type="text/css">
+        .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+       </style>
+       <style type="text/css">
+        .saboxplugin-wrap{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box;border:1px solid #eee;width:100%;clear:both;display:block;overflow:hidden;word-wrap:break-word;position:relative}.saboxplugin-wrap .saboxplugin-gravatar{float:left;padding:0 20px 20px 20px}.saboxplugin-wrap .saboxplugin-gravatar img{max-width:100px;height:auto;border-radius:0;}.saboxplugin-wrap .saboxplugin-authorname{font-size:18px;line-height:1;margin:20px 0 0 20px;display:block}.saboxplugin-wrap .saboxplugin-authorname a{text-decoration:none}.saboxplugin-wrap .saboxplugin-authorname a:focus{outline:0}.saboxplugin-wrap .saboxplugin-desc{display:block;margin:5px 20px}.saboxplugin-wrap .saboxplugin-desc a{text-decoration:underline}.saboxplugin-wrap .saboxplugin-desc p{margin:5px 0 12px}.saboxplugin-wrap .saboxplugin-web{margin:0 20px 15px;text-align:left}.saboxplugin-wrap .sab-web-position{text-align:right}.saboxplugin-wrap .saboxplugin-web a{color:#ccc;text-decoration:none}.saboxplugin-wrap .saboxplugin-socials{position:relative;display:block;background:#fcfcfc;padding:5px;border-top:1px solid #eee}.saboxplugin-wrap .saboxplugin-socials a svg{width:20px;height:20px}.saboxplugin-wrap .saboxplugin-socials a svg .st2{fill:#fff; transform-origin:center center;}.saboxplugin-wrap .saboxplugin-socials a svg .st1{fill:rgba(0,0,0,.3)}.saboxplugin-wrap .saboxplugin-socials a:hover{opacity:.8;-webkit-transition:opacity .4s;-moz-transition:opacity .4s;-o-transition:opacity .4s;transition:opacity .4s;box-shadow:none!important;-webkit-box-shadow:none!important}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color{box-shadow:none;padding:0;border:0;-webkit-transition:opacity .4s;-moz-transition:opacity .4s;-o-transition:opacity .4s;transition:opacity .4s;display:inline-block;color:#fff;font-size:0;text-decoration:inherit;margin:5px;-webkit-border-radius:0;-moz-border-radius:0;-ms-border-radius:0;-o-border-radius:0;border-radius:0;overflow:hidden}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-grey{text-decoration:inherit;box-shadow:none;position:relative;display:-moz-inline-stack;display:inline-block;vertical-align:middle;zoom:1;margin:10px 5px;color:#444;fill:#444}.clearfix:after,.clearfix:before{content:' ';display:table;line-height:0;clear:both}.ie7 .clearfix{zoom:1}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-twitch{border-color:#38245c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-addthis{border-color:#e91c00}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-behance{border-color:#003eb0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-delicious{border-color:#06c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-deviantart{border-color:#036824}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-digg{border-color:#00327c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-dribbble{border-color:#ba1655}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-facebook{border-color:#1e2e4f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-flickr{border-color:#003576}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-github{border-color:#264874}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-google{border-color:#0b51c5}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-googleplus{border-color:#96271a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-html5{border-color:#902e13}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-instagram{border-color:#1630aa}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-linkedin{border-color:#00344f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-pinterest{border-color:#5b040e}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-reddit{border-color:#992900}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-rss{border-color:#a43b0a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-sharethis{border-color:#5d8420}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-skype{border-color:#00658a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-soundcloud{border-color:#995200}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-spotify{border-color:#0f612c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-stackoverflow{border-color:#a95009}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-steam{border-color:#006388}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-user_email{border-color:#b84e05}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-stumbleUpon{border-color:#9b280e}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-tumblr{border-color:#10151b}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-twitter{border-color:#0967a0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-vimeo{border-color:#0d7091}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-windows{border-color:#003f71}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-whatsapp{border-color:#003f71}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-wordpress{border-color:#0f3647}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-yahoo{border-color:#14002d}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-youtube{border-color:#900}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-xing{border-color:#000202}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-mixcloud{border-color:#2475a0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-vk{border-color:#243549}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-medium{border-color:#00452c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-quora{border-color:#420e00}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-meetup{border-color:#9b181c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-goodreads{border-color:#000}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-snapchat{border-color:#999700}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-500px{border-color:#00557f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-mastodont{border-color:#185886}.sabox-plus-item{margin-bottom:20px}@media screen and (max-width:480px){.saboxplugin-wrap{text-align:center}.saboxplugin-wrap .saboxplugin-gravatar{float:none;padding:20px 0;text-align:center;margin:0 auto;display:block}.saboxplugin-wrap .saboxplugin-gravatar img{float:none;display:inline-block;display:-moz-inline-stack;vertical-align:middle;zoom:1}.saboxplugin-wrap .saboxplugin-desc{margin:0 10px 20px;text-align:center}.saboxplugin-wrap .saboxplugin-authorname{text-align:center;margin:10px 0 20px}}body .saboxplugin-authorname a,body .saboxplugin-authorname a:hover{box-shadow:none;-webkit-box-shadow:none}a.sab-profile-edit{font-size:16px!important;line-height:1!important}.sab-edit-settings a,a.sab-profile-edit{color:#0073aa!important;box-shadow:none!important;-webkit-box-shadow:none!important}.sab-edit-settings{margin-right:15px;position:absolute;right:0;z-index:2;bottom:10px;line-height:20px}.sab-edit-settings i{margin-left:5px}.saboxplugin-socials{line-height:1!important}.rtl .saboxplugin-wrap .saboxplugin-gravatar{float:right}.rtl .saboxplugin-wrap .saboxplugin-authorname{display:flex;align-items:center}.rtl .saboxplugin-wrap .saboxplugin-authorname .sab-profile-edit{margin-right:10px}.rtl .sab-edit-settings{right:auto;left:0}img.sab-custom-avatar{max-width:75px;}.saboxplugin-wrap {margin-top:0px; margin-bottom:0px; padding: 0px 0px }.saboxplugin-wrap .saboxplugin-authorname {font-size:18px; line-height:25px;}.saboxplugin-wrap .saboxplugin-desc p, .saboxplugin-wrap .saboxplugin-desc {font-size:14px !important; line-height:21px !important;}.saboxplugin-wrap .saboxplugin-web {font-size:14px;}.saboxplugin-wrap .saboxplugin-socials a svg {width:18px;height:18px;}
+       </style>
+       <link href="https://www.sochfactcheck.com/wp-content/uploads/2024/05/favicon.png" rel="icon" sizes="32x32"/>
+       <link href="https://www.sochfactcheck.com/wp-content/uploads/2024/05/favicon.png" rel="icon" sizes="192x192"/>
+       <link href="https://www.sochfactcheck.com/wp-content/uploads/2024/05/favicon.png" rel="apple-touch-icon"/>
+       <meta content="https://www.sochfactcheck.com/wp-content/uploads/2024/05/favicon.png" name="msapplication-TileImage"/>
+       <!-- Google tag (gtag.js) -->
+       <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-2JT5Y6XZMX">
+       </script>
+       <script>
+        window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-2JT5Y6XZMX');
+       </script>
+      </link>
+     </link>
+    </link>
+   </link>
+  </link>
+ </head>
+ <body class="page-template page-template-pages-template page-template-latest-posts page-template-pages-templatelatest-posts-php page page-id-11955">
+  <div class="site" id="page">
+   <header class="site-header has-title-and-tagline py-3" id="masthead">
+    <div class="container container-lg">
+     <div class="align-items-center mh-wrap row">
+      <div class="col-6 col-md-2 order-2 order-md-1">
+       <div class="logo-sec text-center text-md-start">
+        <a href="https://www.sochfactcheck.com">
+         <svg fill="none" height="62" viewbox="0 0 145 62" width="145" xmlns="http://www.w3.org/2000/svg">
+          <g clip-path="url(#clip0_966_1643)">
+           <path d="M144.21 5.56689V24.9651H75.0586L75.039 12.9834C75.039 12.9834 75.1464 11.8849 74.5215 10.4885H94.5447V5.56689H101.893V10.4885H115.486V5.56689H123.2V10.6349H136.573V5.56689H144.215H144.21Z" fill="white">
+           </path>
+           <path d="M74.5224 35.3943V12.1779C74.5224 10.3421 72.0616 0.865112 57.4433 0.865112C42.8251 0.865112 40.9111 12.8419 40.9111 12.8419V26.7766C40.9111 29.3253 41.2041 33.2655 46.6432 37.5279C52.0823 41.7903 59.7918 40.6137 59.7918 40.6137C56.999 49.5047 47.1559 48.8407 47.1559 48.8407H40.9111V61.4034C75.9578 62.873 74.5224 35.3943 74.5224 35.3943ZM65.0112 27.0207C65.0112 27.0207 64.8647 32.5331 57.8828 32.5331C50.9008 32.5331 50.7543 27.1721 50.7543 27.1721V15.2685C50.7543 15.2685 51.4574 10.4934 57.7167 10.4934C63.9761 10.4934 65.0063 14.8291 65.0063 15.2685V27.0256L65.0112 27.0207Z" fill="white">
+           </path>
+           <path d="M40.2515 0.865112V17.3973H34.5194C34.5194 17.3973 19.8279 16.9579 19.8279 32.5331C19.8279 48.1083 31.7315 48.9188 33.2011 48.9188H39.8853V61.4669C39.8853 61.4669 33.4941 61.9991 30.0421 60.9689C26.5902 59.9387 6.38634 58.1761 6.38634 30.5508C6.38634 21.1373 13.6613 11.7434 20.5652 9.09703H4.69211C4.69211 9.09703 1.02046 9.09703 0.873983 12.4025H0.209961V0.865112H40.2515Z" fill="white">
+           </path>
+           <path d="M30.8474 22.2457L35.5492 26.7766L30.8474 31.2295L26.1455 26.7766L30.8474 22.2457Z" fill="white">
+           </path>
+           <path d="M25.6286 27.5334L30.1108 31.9423L25.6286 36.3512L21 31.9423L25.6286 27.5334Z" fill="white">
+           </path>
+           <path d="M30.8474 32.5282L35.5492 37.0103L30.8474 41.7122L26.1455 37.1226L30.8474 32.5282Z" fill="white">
+           </path>
+           <path d="M79.3408 29.2911H88.7006V32.4355H83.4226V34.7937H87.6411V37.8453H83.4226V42.7181H79.3359V29.2911H79.3408Z" fill="white">
+           </path>
+           <path d="M88.168 41.4144L92.4841 29.2911H97.6254L101.922 41.4144V42.7181H97.8158L97.2592 40.7016H92.8259L92.2693 42.7181H88.1631V41.4144H88.168ZM96.4194 37.5963L95.3062 33.5096H94.8082L93.6754 37.5963H96.4194Z" fill="white">
+           </path>
+           <path d="M102.229 36.0046C102.229 31.8056 105.086 28.9445 109.153 28.9445C112.146 28.9445 114.465 30.4971 115.349 32.8016V34.2615H111.472C111.106 33.2069 110.261 32.5331 109.114 32.5331C107.424 32.5331 106.292 33.9149 106.292 36.0046C106.292 38.0943 107.444 39.4565 109.114 39.4565C110.266 39.4565 111.13 38.8023 111.472 37.7476H115.368V39.2075C114.485 41.5072 112.146 43.0647 109.153 43.0647C105.086 43.0647 102.229 40.2084 102.229 36.0046Z" fill="white">
+           </path>
+           <path d="M119.807 32.6503H116.199V29.2911H127.366V32.6503H123.894V42.7229H119.807V32.6503Z" fill="white">
+           </path>
+           <path d="M77.7393 51.6384C77.7393 47.4394 80.5955 44.5782 84.6627 44.5782C87.6556 44.5782 89.9748 46.1309 90.8586 48.4354V49.8953H86.9819C86.6157 48.8407 85.771 48.1669 84.6236 48.1669C82.9343 48.1669 81.8015 49.5486 81.8015 51.6384C81.8015 53.7281 82.9538 55.0903 84.6236 55.0903C85.7759 55.0903 86.6401 54.436 86.9819 53.3814H90.8781V54.8413C89.9944 57.141 87.6556 58.6985 84.6627 58.6985C80.5955 58.6985 77.7393 55.8422 77.7393 51.6384Z" fill="white">
+           </path>
+           <path d="M100.57 53.4205H96.4831V58.3518H92.3965V44.9249H96.4831V49.6658H100.57V44.9249H104.656V58.3518H100.57V53.4205Z" fill="white">
+           </path>
+           <path d="M106.248 44.9249H115.608V47.9765H110.33V50.0467H114.397V53.0787H110.33V55.2661H115.779V58.3567H106.243V44.9298L106.248 44.9249Z" fill="white">
+           </path>
+           <path d="M115.843 51.6384C115.843 47.4394 118.699 44.5782 122.766 44.5782C125.759 44.5782 128.078 46.1309 128.962 48.4354V49.8953H125.085C124.719 48.8407 123.875 48.1669 122.727 48.1669C121.038 48.1669 119.905 49.5486 119.905 51.6384C119.905 53.7281 121.057 55.0903 122.727 55.0903C123.879 55.0903 124.744 54.436 125.085 53.3814H128.982V54.8413C128.098 57.141 125.759 58.6985 122.766 58.6985C118.699 58.6985 115.843 55.8422 115.843 51.6384Z" fill="white">
+           </path>
+           <path d="M129.733 44.9249H133.742V49.9295H134.181L138.019 44.9249H141.549V46.1895L137.809 50.8132L141.876 57.0482V58.3518H137.926L135.182 53.9185H134.723L133.747 55.2026V58.347H129.738V44.92L129.733 44.9249Z" fill="white">
+           </path>
+           <path d="M141.178 30.4629L142.623 31.9765L136.374 38.1626L132.272 34.3103L133.469 32.9872L136.325 35.3063L141.178 30.4629Z" fill="white">
+           </path>
+           <path d="M140.392 34.7595C140.416 34.9597 140.436 35.1648 140.436 35.3747C140.436 38.0845 138.239 40.2865 135.524 40.2865C132.809 40.2865 130.612 38.0894 130.612 35.3747C130.612 32.6601 132.809 30.4629 135.524 30.4629C136.803 30.4629 137.96 30.9561 138.834 31.7519L139.577 30.5215C138.478 29.6036 137.067 29.0519 135.524 29.0519C132.033 29.0519 129.206 31.8837 129.206 35.3699C129.206 38.856 132.038 41.6878 135.524 41.6878C139.01 41.6878 141.842 38.856 141.842 35.3699C141.842 34.8474 141.774 34.3445 141.652 33.8612L140.387 34.7595H140.392Z" fill="white">
+           </path>
+          </g>
+          <defs>
+           <clippath id="clip0_966_1643">
+            <rect fill="white" height="60.7336" transform="translate(0.209961 0.865112)" width="144">
+            </rect>
+           </clippath>
+          </defs>
+         </svg>
+        </a>
+       </div>
+      </div>
+      <div class="align-items-center col-3 col-md-8 d-flex d-md-block justify-content-end order-3 order-md-2 menu-col">
+       <div class="main-menu align-items-center d-flex justify-content-center menu-row">
+        <div class="primary-menu-container">
+         <ul class="d-md-flex d-none list-unstyled mb-0 menu-wrapper gap-lg-2" id="left-menu-list">
+          <li class="about-dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6178" id="menu-item-6178">
+           <a href="#">
+            About
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4714" id="menu-item-4714">
+             <a href="https://www.sochfactcheck.com/about-us/">
+              About Us
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82" id="menu-item-82">
+             <a href="https://sochmedia.org/">
+              Soch Media
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="categories-dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6162" id="menu-item-6162">
+           <a href="#">
+            Topics
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6164" id="menu-item-6164">
+             <a href="https://www.sochfactcheck.com/category/culture/">
+              Culture
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6166" id="menu-item-6166">
+             <a href="https://www.sochfactcheck.com/category/education/">
+              Education
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6168" id="menu-item-6168">
+             <a href="https://www.sochfactcheck.com/category/pakistan/">
+              Pakistan
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6169" id="menu-item-6169">
+             <a href="https://www.sochfactcheck.com/category/politics/">
+              Politics
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6171" id="menu-item-6171">
+             <a href="https://www.sochfactcheck.com/category/science/">
+              Science
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6175" id="menu-item-6175">
+             <a href="https://www.sochfactcheck.com/category/world/">
+              World
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6177" id="menu-item-6177">
+           <a href="https://www.sochfactcheck.com/methodology/">
+            Methodology
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6176" id="menu-item-6176">
+           <a href="https://www.sochfactcheck.com/submit/">
+            Contact
+           </a>
+          </li>
+          <li class="ur-text menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11661" id="menu-item-11661">
+           <a href="https://www.sochfactcheck.com/category/urdu/">
+            اردو
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="ms-lg-3 me-3 me-md-0 search-btn">
+         <button class="bg-transparent border-0 ms-2">
+          <i class="fa-solid fa-magnifying-glass">
+          </i>
+         </button>
+        </div>
+       </div>
+       <div class="header-search position-absolute" style="display: none;">
+        <form action="https://www.sochfactcheck.com/" class="search-form" method="get" role="search">
+         <label>
+          <span class="screen-reader-text">
+           Search for:
+          </span>
+          <input class="search-field" name="s" placeholder="Search" type="text" value=""/>
+         </label>
+         <button class="search-submit d-none" type="submit">
+          <span class="screen-reader-text">
+           Search
+          </span>
+         </button>
+        </form>
+        <div class="hide-search">
+         <button>
+          <i class="fa-solid fa-xmark">
+          </i>
+         </button>
+        </div>
+       </div>
+       <div class="menu-wrap">
+        <div class="d-block d-md-none mobile-menu">
+         <div class="mm-btn">
+          <button class="mobile-menu-toggle">
+           <span>
+           </span>
+           <span>
+           </span>
+           <span>
+           </span>
+          </button>
+         </div>
+         <div class="mm-panel">
+          <div class="primary-menu-container">
+           <ul class="menu-wrapper" id="left-menu-list">
+            <li class="about-dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6178">
+             <a href="#">
+              About
+             </a>
+             <ul class="sub-menu">
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4714">
+               <a href="https://www.sochfactcheck.com/about-us/">
+                About Us
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82">
+               <a href="https://sochmedia.org/">
+                Soch Media
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="categories-dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6162">
+             <a href="#">
+              Topics
+             </a>
+             <ul class="sub-menu">
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6164">
+               <a href="https://www.sochfactcheck.com/category/culture/">
+                Culture
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6166">
+               <a href="https://www.sochfactcheck.com/category/education/">
+                Education
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6168">
+               <a href="https://www.sochfactcheck.com/category/pakistan/">
+                Pakistan
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6169">
+               <a href="https://www.sochfactcheck.com/category/politics/">
+                Politics
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6171">
+               <a href="https://www.sochfactcheck.com/category/science/">
+                Science
+               </a>
+              </li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6175">
+               <a href="https://www.sochfactcheck.com/category/world/">
+                World
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6177">
+             <a href="https://www.sochfactcheck.com/methodology/">
+              Methodology
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6176">
+             <a href="https://www.sochfactcheck.com/submit/">
+              Contact
+             </a>
+            </li>
+            <li class="ur-text menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11661">
+             <a href="https://www.sochfactcheck.com/category/urdu/">
+              اردو
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col-3 col-md-2 order-1 order-md-3">
+       <div class="ifcn-badge text-md-end">
+        <a href="https://ifcncodeofprinciples.poynter.org/profile/soch-videos" target="_blank">
+         <img height="97" src="https://www.sochfactcheck.com/wp-content/themes/custom-theme/assets/images/ifcn-badge.png" width="79"/>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <!-- #masthead -->
+   <div class="site-content" id="content">
+    <div class="content-area" id="primary">
+     <main class="site-main" id="main">
+      <div class="content-area">
+       <main class="site-main default-temp" id="main" role="main">
+        <div class="entry-header py-5 text-center">
+         <h1 class="fw-bold">
+          Latest Posts
+         </h1>
+        </div>
+       </main>
+       <div class="entry-content pt-lg-5 pt-4">
+        <div class="container">
+         <div class="gy-5 latest-posts row row-cols-lg-3 row-cols-md-2">
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Dec 10, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/uncategorised/">
+               Uncategorised
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/unrwa-teacher-was-not-among-the-bodyguards-killed-alongside-yahya-sinwar/">
+               UNRWA teacher was not among the bodyguards killed alongside Yahya Sinwar.
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/unrwa-teacher-was-not-among-the-bodyguards-killed-alongside-yahya-sinwar/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" fetchpriority="high" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/12/UNRWA.jpg" width="832">
+              </img>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: The ID of a UNRWA teacher, Hani S. Zourob, was found on Yahya Sinwar at the time of his death and belonged to one of the two bodyguards killed along with the Hamas leader on 17 October. Fact: The ID card of Sinwar’s alleged bodyguard is actually an expired passport belonging to a UNRWA […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/unrwa-teacher-was-not-among-the-bodyguards-killed-alongside-yahya-sinwar/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/protesters-in-iran-did-not-set-fire-to-ayatollah-khameneis-billboards-after-trump-was-elected/">
+               Protesters in Iran did not set fire to Ayatollah Khamenei’s billboards after Trump was elected.
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/protesters-in-iran-did-not-set-fire-to-ayatollah-khameneis-billboards-after-trump-was-elected/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Iran-1-1.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A video shows Iranian protesters, emboldened by US President-elect Donald Trump’s victory, setting fire to billboards of Ayatollah Khamenei in dissent.  Fact: The viral video is from protests in 2022 after the death of Mahsa Amini at the hands of Iran’s morality police.  On 22 May 2024, a user on X (formerly Twitter) posted […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/protesters-in-iran-did-not-set-fire-to-ayatollah-khameneis-billboards-after-trump-was-elected/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/did-pakistan-army-chief-gen-asim-munir-touch-saudi-crown-prince-mohammed-bin-salman-knees/">
+               Did Pakistan Army chief respectfully touch Saudi Crown Prince’s knees?
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/did-pakistan-army-chief-gen-asim-munir-touch-saudi-crown-prince-mohammed-bin-salman-knees/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Pak_Army_chief_MBS_knees_main.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: Pakistan Army Chief Gen Asim Munir got up from his seat to touch the knees of Saudi Crown Prince Mohammed bin Salman out of respect, according to a viral video Fact: The video is AI-generated and a real picture was likely animated to create the clip. AI and manipulation detection tools also indicated the […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/did-pakistan-army-chief-gen-asim-munir-touch-saudi-crown-prince-mohammed-bin-salman-knees/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/no-israeli-prime-minister-benjamin-netanyahu-has-not-been-hospitalised/">
+               No, Israeli Prime Minister Benjamin Netanyahu has not been hospitalised.
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/no-israeli-prime-minister-benjamin-netanyahu-has-not-been-hospitalised/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Isreal-3.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: Prime Minister Benjamin Netanyahu has been hospitalised in Tel Aviv after suffering from serious health issues. Fact: Netanyahu has not been ill nor hospitalised.  On 18 November 2024, a user on X posted an image (archive) of Israeli Prime Minister Benjamin Netanyahu lying unconscious in the hospital with an oxygen mask on. The […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/no-israeli-prime-minister-benjamin-netanyahu-has-not-been-hospitalised/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/viral-video-of-apparent-pti-protesters-is-actually-from-east-timor/">
+               Viral video of apparent PTI protesters is actually from East Timor.
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/viral-video-of-apparent-pti-protesters-is-actually-from-east-timor/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Pak-army.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A video shows thousands of Pakistan Tehreek-e-Insaf (PTI) protesters marching towards Islamabad.  Fact: The video actually shows supporters of Pope Francis welcoming him to East Timor.  On 25 November 2024, a user on X (formerly Twitter) posted a video (archive) of a convoy of protesters heading towards Islamabad. The post is captioned, “BREAKING: #PakistanArmy […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/viral-video-of-apparent-pti-protesters-is-actually-from-east-timor/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/us-politician-alexandria-ocasio-cortez-aoc-did-not-say-ceasefire-means-someone-sees-a-fire/">
+               US politician Alexandria Ocasio-Cortez did not say ceasefire means someone ‘sees a fire’
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/us-politician-alexandria-ocasio-cortez-aoc-did-not-say-ceasefire-means-someone-sees-a-fire/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/AOC_ceasefire_meaning_main.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: Alexandria Ocasio-Cortez defines the term ceasefire as an incident when someone “sees a fire”, which “could be a big fire or a small fire, a bonfire or even a candle flame”. Fact: The video is not authentic. A snippet from AOC’s real October 2023 livestream on Instagram has been doctored using altered audio. On […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/us-politician-alexandria-ocasio-cortez-aoc-did-not-say-ceasefire-means-someone-sees-a-fire/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/sports/">
+               Sports
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/olympics-2024-imane-khelif-gold-medal-not-revoked-nor-lifetime-ban-imposed-on-algerian-boxer/">
+               Imane Khelif’s gold medal not revoked, nor lifetime ban imposed on Algerian boxer
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/olympics-2024-imane-khelif-gold-medal-not-revoked-nor-lifetime-ban-imposed-on-algerian-boxer/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Imane_Khelif_medal_stripped_lifetime_ban_main.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: The World Boxing Organization (WBO) has “revoked” Imane Khelif’s gold medal after confirming that she “is male” and that the Olympic boxing athlete now “faces a lifetime ban”. Fact: The boxing body has made no such announcement, it confirmed in a statement. Furthermore, Imane Khelif is a cisgender woman. On 11 October 2024, Threads […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/olympics-2024-imane-khelif-gold-medal-not-revoked-nor-lifetime-ban-imposed-on-algerian-boxer/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/social/">
+               Social
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/oxford-chancellor-elections-university-did-not-reject-imran-khan-bid-for-being-against-israel/">
+               Oxford University did not reject Imran Khan’s Chancellor bid for being ‘against Israel’
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/oxford-chancellor-elections-university-did-not-reject-imran-khan-bid-for-being-against-israel/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/IK_Oxford_rejection_tweet_main.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: The University of Oxford rejected Imran Khan’s application of candidacy in the Chancellor election following a request by the Government of Pakistan, citing his stance “against Israel and in favor of Palestine”, him being “a supporter of Taliban”, and his wish to implement Shariah law in the country as its reasons. Fact: Oxford University […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/oxford-chancellor-elections-university-did-not-reject-imran-khan-bid-for-being-against-israel/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/no-evidence-donald-trump-shared-pakistan-imran-khan-picture-to-garner-support-for-2024-us-elections/">
+               No evidence Trump shared Imran Khan’s picture to garner support for 2024 US elections
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/no-evidence-donald-trump-shared-pakistan-imran-khan-picture-to-garner-support-for-2024-us-elections/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Trump_tweet_IK_pic_peace_main.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: Donald Trump shared a picture of himself shaking hands with Imran Khan on X and said, “We, Imran Khan and I, can bring peace to the world [so] come support us.” Fact: There’s no evidence for this claim. The X post in question was published by @Trump47thPOTUS, an account that has now been suspended. […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/no-evidence-donald-trump-shared-pakistan-imran-khan-picture-to-garner-support-for-2024-us-elections/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/business/">
+               Business
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/economy/">
+               Economy
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/street-vendors-earning-more-than-people-with-regular-jobs-2/">
+               Street vendors earning more than people with ‘regular jobs’?
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/street-vendors-earning-more-than-people-with-regular-jobs-2/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Street-Vendors-1.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               Misleading
+              </span>
+              <span class="color-bar rounded-5 misleading">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A study shows that street vendors in Pakistan earn more than people with ‘regular jobs’.   Fact: The claim is false as the study it refers to does not make any comparison between the income of street vendors and that of people with more regulated or formal employment.   Between 21 and 24 October […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/street-vendors-earning-more-than-people-with-regular-jobs-2/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/culture/">
+               Culture
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/video-does-not-show-punjabs-education-minister-assaulting-a-couple/">
+               Video does not show Punjab’s education minister assaulting a couple
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/video-does-not-show-punjabs-education-minister-assaulting-a-couple/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/rana-sikander-fc.png" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A video shows Punjab’s Education Minister Rana Sikander Hayat assaulting a couple following the alleged incident of a student’s sexual assault at a private college in Lahore. Fact: The claim is false as the video does not show Rana Sikander Hayat. The individual in the video can be identified as Usman Mirza, who assaulted […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/video-does-not-show-punjabs-education-minister-assaulting-a-couple/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/culture/">
+               Culture
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/jennifer-lopez-wore-sacred-sword-during-riyadh-season/">
+               Jennifer Lopez wore sacred sword during Riyadh Season?
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/jennifer-lopez-wore-sacred-sword-during-riyadh-season/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/middleeasteye.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: Pictures show Jennifer Lopez wearing a sacred sword during a performance at Riyadh Season 2024.   Fact: The pictures do not show Jennifer Lopez at Riyadh Season 2024. They show Palestinian-Chilean singer Elyanna performing at a concert in New York.   On 15 and 16 November 2024, a number of users on Facebook, Instagram, […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/jennifer-lopez-wore-sacred-sword-during-riyadh-season/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/video-does-not-show-child-trapped-under-rubble-in-gaza/">
+               Video does not show child trapped under rubble in Gaza
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/video-does-not-show-child-trapped-under-rubble-in-gaza/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Child-under-rubber.png" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               Misleading
+              </span>
+              <span class="color-bar rounded-5 misleading">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A video shows a Palestinian child trapped under rubble after Israel’s attack.  Fact: The claim is misleading as the video is from Syria, not Palestine. It actually shows a child playing in her home, peeking through a hole in the wall and not stuck under the rubble. On 26 October 2024, an X (formerly […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/video-does-not-show-child-trapped-under-rubble-in-gaza/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/did-a-woman-shout-at-nawaz-sharif-and-maryam-nawaz-in-switzerland/">
+               Did a woman shout at Nawaz Sharif and Maryam Nawaz in Switzerland?
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/did-a-woman-shout-at-nawaz-sharif-and-maryam-nawaz-in-switzerland/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/dailypakistan.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               Misleading
+              </span>
+              <span class="color-bar rounded-5 misleading">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A video shows a woman yelling at Nawaz Sharif and Maryam Nawaz in Switzerland.   Fact: The woman’s voice was superimposed onto the footage and the audio is not original. In fact, in the original video, we can hear the pedestrians praising the Sharifs.   On 9 November 2024, a video of Nawaz Sharif […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/did-a-woman-shout-at-nawaz-sharif-and-maryam-nawaz-in-switzerland/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/video-of-crowd-celebrating-at-night-is-not-from-islamabad/">
+               Video of crowd celebrating at night is not from Islamabad
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/video-of-crowd-celebrating-at-night-is-not-from-islamabad/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/cover-final-for-PTI-night-rally.png" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: Video shows Pakistan Tehreek Insaf’s (PTI) protesters celebrating after they reached Islamabad. Fact:  The video is from Libya and shows crowds of people gathered in a desert at a car rally. On 25 November, an X user posted a video (archive) allegedly showing PTI supporters celebrating after they reached Islamabad amid strict lockdown by […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/video-of-crowd-celebrating-at-night-is-not-from-islamabad/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/viral-recent-photo-of-imran-khan-is-doctored/">
+               Viral ‘recent’ photo of Imran Khan is doctored
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/viral-recent-photo-of-imran-khan-is-doctored/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/SFC-Cover-Template-Recovered-1.png" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A new picture of Imran Khan shows him with a long beard, wearing a blue shalwar kameez and a dark blue waistcoat Fact: Khan has not grown a beard during his time in prison. The image being circulated recently is doctored. On 27 October 2024, an Instagram user shared a photograph of Imran […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/viral-recent-photo-of-imran-khan-is-doctored/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/image-shows-ptms-bannu-rally-in-july-not-october/">
+               Image shows PTM’s Bannu rally in July, not October
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/image-shows-ptms-bannu-rally-in-july-not-october/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/PTM-cover-final.png" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               Misleading
+              </span>
+              <span class="color-bar rounded-5 misleading">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: Image shows Pashtun Tahafuz Movement’s (PTM) demonstration from October 2024 in Bannu, Khyber Pakhtunkhwa. Fact: The image is of PTM’s peace rally in Bannu from July 2024, and not from the demonstrations held in October.  On 21 October, an X user posted a picture (archive) apparently showing supporters of PTM who demonstrated in Bannu, […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/image-shows-ptms-bannu-rally-in-july-not-october/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/picture-showing-road-flooded-with-containers-is-fake/">
+               Picture showing road flooded with containers is fake
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/picture-showing-road-flooded-with-containers-is-fake/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/aljazeera-img.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A picture shows a sea of containers that were put in place ahead of the PTI’s November march, blocking a road in Islamabad.   Fact: The picture is doctored and does not accurately represent the security arrangements and blockades that were put in place ahead of the PTI’s march. A photo showing a sea […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/picture-showing-road-flooded-with-containers-is-fake/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/pml-n-has-not-decided-to-leave-the-government/">
+               PML-N has not decided to leave the government
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/pml-n-has-not-decided-to-leave-the-government/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/nawazou.png" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: PML-N has announced that they are ready to leave the government since they did not receive public support for their big decisions. Fact: Screenshots of news bulletins aired in 2022 were used to imply that the statement is a recent development. The PML-N leadership has not made any statements about the possibility of leaving […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/pml-n-has-not-decided-to-leave-the-government/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/image-of-protester-holding-a-gun-is-not-from-recent-pti-rally-in-islamabad/">
+               Image of protester holding a gun is not from recent PTI rally in Islamabad
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/image-of-protester-holding-a-gun-is-not-from-recent-pti-rally-in-islamabad/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/PTI-gun-cover-final.png" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               Misleading
+              </span>
+              <span class="color-bar rounded-5 misleading">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: Image shows Pakistan Tehreek-e-Insaf’s supporter holding a gun during the protests in Islamabad on 26 November. Fact: Image shows a protester holding a gun during clashes between security forces and PTI supporters in May 2023 in Peshawar. On 26 November, an X user posted a photo (archive) apparently showing a PTI supporter holding a […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/image-of-protester-holding-a-gun-is-not-from-recent-pti-rally-in-islamabad/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/video-does-not-show-pti-protesters-sleeping-on-the-streets-of-islamabad/">
+               Video does not show PTI protesters sleeping on the streets of Islamabad
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/video-does-not-show-pti-protesters-sleeping-on-the-streets-of-islamabad/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/dw.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A video shows PTI supporters from the recent protests in Islamabad sleeping on the capital’s roads.   Fact: The first part of the video shows Jamaat-e-Islami (JI) members in Rawalpindi, and the second part shows Tehreek-e-Labbaik Pakistan (TLP) protesters in Faizabad.   The city of Islamabad was on lockdown since 24 November 2024 in […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/video-does-not-show-pti-protesters-sleeping-on-the-streets-of-islamabad/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/conflict/">
+               Conflict
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/video-of-putin-announcing-the-possibility-of-using-nuclear-weapons-is-from-september-2024/">
+               Video of Putin announcing the possibility of using nuclear weapons is from September 2024
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/video-of-putin-announcing-the-possibility-of-using-nuclear-weapons-is-from-september-2024/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Putin-cover-final.png" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               Misleading
+              </span>
+              <span class="color-bar rounded-5 misleading">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: Video shows Russian President Vladimir Putin announcing the use of nuclear weapons in November 2024. Fact: The video is from September 2024, when Putin announced planned revisions to Russia’s nuclear doctrine in a televised meeting of Russia’s Security Council. The announcement was not made this month; however, Putin signed and approved a new nuclear […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/video-of-putin-announcing-the-possibility-of-using-nuclear-weapons-is-from-september-2024/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/culture/">
+               Culture
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/video-shows-forced-conversion-in-pakistan/">
+               Video shows forced conversion in Pakistan?
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/video-shows-forced-conversion-in-pakistan/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Forced-Hindu.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A video from Pakistan shows a woman from a religious minority being forcefully converted to Islam.   Fact: The video is from Bangladesh, but the details of the incident and its context are still unclear.   By conducting a reverse image search of the video’s keyframes and a keyword search on multiple social media […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/video-shows-forced-conversion-in-pakistan/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/did-nawaz-sharif-cry-after-ihc-granted-imran-khan-bail/">
+               Did Nawaz Sharif cry after IHC granted Imran Khan bail?
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/did-nawaz-sharif-cry-after-ihc-granted-imran-khan-bail/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/pakistantoday.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: Nawaz Sharif broke down while addressing journalists in London following Islamabad High Court’s (IHC) decision to grant Imran Khan bail in the Toshakhana 2.0 case. Fact: Nawaz Sharif did not cry during the interaction. Deepfake detection tools revealed significant manipulation in the video. After the Islamabad High Court (IHC) granted bail to former Prime […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/did-nawaz-sharif-cry-after-ihc-granted-imran-khan-bail/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/religion/">
+               Religion
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/structure-mimicking-the-kaaba-displayed-on-stage-at-riyadh-fashion-week-2024/">
+               Structure mimicking the Kaaba displayed on stage at Riyadh Fashion Week 2024?
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/structure-mimicking-the-kaaba-displayed-on-stage-at-riyadh-fashion-week-2024/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/wikipedia.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: The Kaaba, a place of huge importance to Muslims around the world, was purposely disrespected during the recent Riyadh Fashion Week. A Kaaba-like model was built on the ramp, and models were made to walk around it, thus mocking the religious monument.  Fact: The stage featured a cube-shaped, mirrored structure at the center from […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/structure-mimicking-the-kaaba-displayed-on-stage-at-riyadh-fashion-week-2024/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/conflict/">
+               Conflict
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/shrouded-person-using-phone-is-not-a-pti-protester/">
+               Shrouded person using phone is not a PTI protester
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/shrouded-person-using-phone-is-not-a-pti-protester/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/shrouded-pti.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: A PTI protester in a shroud, apparently pretending to be dead, was photographed using a phone. Fact: The image does not show a PTI protester. The image, originally shared in 2022, shows a child dressed as a corpse for Halloween.   On 23 November, X user @LegiMian shared an image (archive) of a shrouded person […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/shrouded-person-using-phone-is-not-a-pti-protester/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/conflict/">
+               Conflict
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/image-of-wounded-girl-misattributed-to-recent-parachinar-attack/">
+               Image of wounded girl misattributed to recent Parachinar attack
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/image-of-wounded-girl-misattributed-to-recent-parachinar-attack/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Parachinar-girl.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: An image of a wounded girl has surfaced on social media, who was injured during the recent violence in Parachinar. Fact: Although the violence in Kurram, which began on 21 November 2024, has reportedly since claimed over 80 lives, including those of women and children, and left more than a 100 injured, the viral […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/image-of-wounded-girl-misattributed-to-recent-parachinar-attack/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/social/">
+               Social
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/world/">
+               World
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/viral-post-falsely-claim-fast-food-restaurant-halal-certificate-revoked/">
+               Viral posts falsely claim fast food restaurants’ halal certificates revoked
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/viral-post-falsely-claim-fast-food-restaurant-halal-certificate-revoked/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Halal-Rest.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: The Muslim Judicial Council (MJC) and International Qura’nic Studies Association (IQSA) have revoked the halal certifications of McDonald’s, KFC, Pizza Hut, Domino’s, and Starbucks.  Fact: The claim that the Muslim Judicial Council (MJC) and International Qura’nic Studies Association (IQSA) have revoked the halal certifications of McDonald’s, KFC, Pizza Hut, Domino’s, and Starbucks is a […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/viral-post-falsely-claim-fast-food-restaurant-halal-certificate-revoked/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/pakistan/">
+               Pakistan
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/ai-image-of-october-d-chowk-rally-goes-viral/">
+               AI image of October D-Chowk rally goes viral
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/ai-image-of-october-d-chowk-rally-goes-viral/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/PTI-Rally-1.jpg" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: An image claims to show the authorities’ crackdown on PTI’s rally at D-Chowk, Islamabad on 4 October. Fact: The viral image in the claim does not accurately depict PTI’s 4 October rally at D-Chowk. A visual comparison with images and footage from the site and AI analysis highlight significant discrepancies, indicating that the image […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/ai-image-of-october-d-chowk-rally-goes-viral/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="article-box">
+           <div class="article-title-wrap">
+            <div class="article-meta d-flex flex-wrap pb-2 align-items-center">
+             <div class="article-date lh-1 pe-2">
+              Nov 29, 2024
+             </div>
+             <div class="article-cat fw-bold lh-1 ps-2 text-uppercase">
+              <a href="https://www.sochfactcheck.com/category/conflict/">
+               Conflict
+              </a>
+              ,
+              <a href="https://www.sochfactcheck.com/category/politics/">
+               Politics
+              </a>
+             </div>
+            </div>
+            <div class="title">
+             <h6 class="fs-4 my-2">
+              <a class="text-decoration-none" href="https://www.sochfactcheck.com/decade-old-image-falsely-linked-to-recent-pti-rally-in-d-chowk/">
+               Decade old image falsely linked to recent PTI rally in D-Chowk
+              </a>
+             </h6>
+            </div>
+           </div>
+           <div class="featured-image">
+            <figure>
+             <a href="https://www.sochfactcheck.com/decade-old-image-falsely-linked-to-recent-pti-rally-in-d-chowk/">
+              <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="505" src="https://www.sochfactcheck.com/wp-content/uploads/2024/11/Cover-final-PTI.png" width="832"/>
+             </a>
+            </figure>
+           </div>
+           <div class="article-about">
+            <div class="d-flex flex-wrap justify-content-between mt-2 px-2 py-1 rating-wrap rounded-5 shadow-sm">
+             <div class="align-items-center d-flex rating-guide">
+              <span class="label true-lb">
+               True
+              </span>
+              <span class="color-bar rounded-5 true">
+              </span>
+              <span class="color-bar misleading rounded-5">
+              </span>
+              <span class="color-bar false rounded-5">
+              </span>
+              <span class="false-lb label">
+               False
+              </span>
+             </div>
+             <div class="align-items-center d-flex show-label">
+              <span class="label">
+               False
+              </span>
+              <span class="color-bar rounded-5 false">
+              </span>
+             </div>
+            </div>
+            <div class="article_excerpt fs-6 mt-4">
+             <p>
+              Claim: An image of a man wearing a PTI scarf and holding a weapon shows a Pakistan Tehreek-e-Insaf (PTI) protester marching towards D-Chowk from the ongoing demonstrations in Islamabad. Fact: The claim is false. The image, which actually shows a protest in Peshawar, is a decade old, first appearing online in 2013. It has been […]
+             </p>
+            </div>
+            <div class="article-link">
+             <a class="text-decoration-none d-inline-block" href="https://www.sochfactcheck.com/decade-old-image-falsely-linked-to-recent-pti-rally-in-d-chowk/">
+              <span class="fw-bold lh-sm me-1">
+               Read More
+              </span>
+              <i class="align-items-center d-inline-flex fa-chevron-right fa-solid justify-content-center rounded-circle text-light">
+              </i>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="mt-5 text-center" id="load-more-container">
+          <button class="btn btn-primary" data-page="1" id="load-more">
+           Load More
+          </button>
+         </div>
+        </div>
+       </div>
+      </div>
+     </main>
+    </div>
+   </div>
+   <footer class="pb-4 pt-5 site-footer mt-5">
+    <div class="container">
+     <div class="footer-main pt-3 row">
+      <div class="col-12 col-md-4">
+       <div class="footer_item mb-5 mb-md-0">
+        <div class="footer_logo mb-2">
+         <a href="https://www.sochfactcheck.com">
+          <svg fill="none" height="62" viewbox="0 0 145 62" width="145" xmlns="http://www.w3.org/2000/svg">
+           <g clip-path="url(#clip0_966_1643)">
+            <path d="M144.21 5.56689V24.9651H75.0586L75.039 12.9834C75.039 12.9834 75.1464 11.8849 74.5215 10.4885H94.5447V5.56689H101.893V10.4885H115.486V5.56689H123.2V10.6349H136.573V5.56689H144.215H144.21Z" fill="white">
+            </path>
+            <path d="M74.5224 35.3943V12.1779C74.5224 10.3421 72.0616 0.865112 57.4433 0.865112C42.8251 0.865112 40.9111 12.8419 40.9111 12.8419V26.7766C40.9111 29.3253 41.2041 33.2655 46.6432 37.5279C52.0823 41.7903 59.7918 40.6137 59.7918 40.6137C56.999 49.5047 47.1559 48.8407 47.1559 48.8407H40.9111V61.4034C75.9578 62.873 74.5224 35.3943 74.5224 35.3943ZM65.0112 27.0207C65.0112 27.0207 64.8647 32.5331 57.8828 32.5331C50.9008 32.5331 50.7543 27.1721 50.7543 27.1721V15.2685C50.7543 15.2685 51.4574 10.4934 57.7167 10.4934C63.9761 10.4934 65.0063 14.8291 65.0063 15.2685V27.0256L65.0112 27.0207Z" fill="white">
+            </path>
+            <path d="M40.2515 0.865112V17.3973H34.5194C34.5194 17.3973 19.8279 16.9579 19.8279 32.5331C19.8279 48.1083 31.7315 48.9188 33.2011 48.9188H39.8853V61.4669C39.8853 61.4669 33.4941 61.9991 30.0421 60.9689C26.5902 59.9387 6.38634 58.1761 6.38634 30.5508C6.38634 21.1373 13.6613 11.7434 20.5652 9.09703H4.69211C4.69211 9.09703 1.02046 9.09703 0.873983 12.4025H0.209961V0.865112H40.2515Z" fill="white">
+            </path>
+            <path d="M30.8474 22.2457L35.5492 26.7766L30.8474 31.2295L26.1455 26.7766L30.8474 22.2457Z" fill="white">
+            </path>
+            <path d="M25.6286 27.5334L30.1108 31.9423L25.6286 36.3512L21 31.9423L25.6286 27.5334Z" fill="white">
+            </path>
+            <path d="M30.8474 32.5282L35.5492 37.0103L30.8474 41.7122L26.1455 37.1226L30.8474 32.5282Z" fill="white">
+            </path>
+            <path d="M79.3408 29.2911H88.7006V32.4355H83.4226V34.7937H87.6411V37.8453H83.4226V42.7181H79.3359V29.2911H79.3408Z" fill="white">
+            </path>
+            <path d="M88.168 41.4144L92.4841 29.2911H97.6254L101.922 41.4144V42.7181H97.8158L97.2592 40.7016H92.8259L92.2693 42.7181H88.1631V41.4144H88.168ZM96.4194 37.5963L95.3062 33.5096H94.8082L93.6754 37.5963H96.4194Z" fill="white">
+            </path>
+            <path d="M102.229 36.0046C102.229 31.8056 105.086 28.9445 109.153 28.9445C112.146 28.9445 114.465 30.4971 115.349 32.8016V34.2615H111.472C111.106 33.2069 110.261 32.5331 109.114 32.5331C107.424 32.5331 106.292 33.9149 106.292 36.0046C106.292 38.0943 107.444 39.4565 109.114 39.4565C110.266 39.4565 111.13 38.8023 111.472 37.7476H115.368V39.2075C114.485 41.5072 112.146 43.0647 109.153 43.0647C105.086 43.0647 102.229 40.2084 102.229 36.0046Z" fill="white">
+            </path>
+            <path d="M119.807 32.6503H116.199V29.2911H127.366V32.6503H123.894V42.7229H119.807V32.6503Z" fill="white">
+            </path>
+            <path d="M77.7393 51.6384C77.7393 47.4394 80.5955 44.5782 84.6627 44.5782C87.6556 44.5782 89.9748 46.1309 90.8586 48.4354V49.8953H86.9819C86.6157 48.8407 85.771 48.1669 84.6236 48.1669C82.9343 48.1669 81.8015 49.5486 81.8015 51.6384C81.8015 53.7281 82.9538 55.0903 84.6236 55.0903C85.7759 55.0903 86.6401 54.436 86.9819 53.3814H90.8781V54.8413C89.9944 57.141 87.6556 58.6985 84.6627 58.6985C80.5955 58.6985 77.7393 55.8422 77.7393 51.6384Z" fill="white">
+            </path>
+            <path d="M100.57 53.4205H96.4831V58.3518H92.3965V44.9249H96.4831V49.6658H100.57V44.9249H104.656V58.3518H100.57V53.4205Z" fill="white">
+            </path>
+            <path d="M106.248 44.9249H115.608V47.9765H110.33V50.0467H114.397V53.0787H110.33V55.2661H115.779V58.3567H106.243V44.9298L106.248 44.9249Z" fill="white">
+            </path>
+            <path d="M115.843 51.6384C115.843 47.4394 118.699 44.5782 122.766 44.5782C125.759 44.5782 128.078 46.1309 128.962 48.4354V49.8953H125.085C124.719 48.8407 123.875 48.1669 122.727 48.1669C121.038 48.1669 119.905 49.5486 119.905 51.6384C119.905 53.7281 121.057 55.0903 122.727 55.0903C123.879 55.0903 124.744 54.436 125.085 53.3814H128.982V54.8413C128.098 57.141 125.759 58.6985 122.766 58.6985C118.699 58.6985 115.843 55.8422 115.843 51.6384Z" fill="white">
+            </path>
+            <path d="M129.733 44.9249H133.742V49.9295H134.181L138.019 44.9249H141.549V46.1895L137.809 50.8132L141.876 57.0482V58.3518H137.926L135.182 53.9185H134.723L133.747 55.2026V58.347H129.738V44.92L129.733 44.9249Z" fill="white">
+            </path>
+            <path d="M141.178 30.4629L142.623 31.9765L136.374 38.1626L132.272 34.3103L133.469 32.9872L136.325 35.3063L141.178 30.4629Z" fill="white">
+            </path>
+            <path d="M140.392 34.7595C140.416 34.9597 140.436 35.1648 140.436 35.3747C140.436 38.0845 138.239 40.2865 135.524 40.2865C132.809 40.2865 130.612 38.0894 130.612 35.3747C130.612 32.6601 132.809 30.4629 135.524 30.4629C136.803 30.4629 137.96 30.9561 138.834 31.7519L139.577 30.5215C138.478 29.6036 137.067 29.0519 135.524 29.0519C132.033 29.0519 129.206 31.8837 129.206 35.3699C129.206 38.856 132.038 41.6878 135.524 41.6878C139.01 41.6878 141.842 38.856 141.842 35.3699C141.842 34.8474 141.774 34.3445 141.652 33.8612L140.387 34.7595H140.392Z" fill="white">
+            </path>
+           </g>
+           <defs>
+            <clippath id="clip0_966_1643">
+             <rect fill="white" height="60.7336" transform="translate(0.209961 0.865112)" width="144">
+             </rect>
+            </clippath>
+           </defs>
+          </svg>
+         </a>
+        </div>
+        <div class="footer_description my-3 pb-1">
+         <p>
+          We are a team of non-partisan fact checkers investigating disinformation and committed to responsible journalism. Pakistan’s only IFCN signatory.
+         </p>
+        </div>
+        <div class="footer_social_links">
+         <ul class="d-flex gap-3 list-unstyled">
+          <li>
+           <a class="align-items-center d-flex justify-content-center rounded-circle" href="#" target="_blank">
+            <i class="fa-brands fa-x-twitter">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a class="align-items-center d-flex justify-content-center rounded-circle" href="#" target="_blank">
+            <i class="fa-brands fa-facebook-f">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a class="align-items-center d-flex justify-content-center rounded-circle" href="#" target="_blank">
+            <i class="fa-brands fa-instagram">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a class="align-items-center d-flex justify-content-center rounded-circle" href="#" target="_blank">
+            <i class="fa-brands fa-github">
+            </i>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="col-12 col-md-8 ps-md-5">
+       <div class="row">
+        <div class="col-6 col-md-4 mb-4 mb-md-0">
+         <div class="footer_menus">
+          <div class="fw-bold menu_title text-uppercase mb-3">
+           Soch Fact Check
+          </div>
+          <ul class="d-flex flex-column footer-menu gap-2 list-unstyled mb-0 ps-0">
+           <li>
+            <a href="/about-us/">
+             About Us
+            </a>
+           </li>
+           <li>
+            <a href="/methodology/">
+             Methodology
+            </a>
+           </li>
+           <li>
+            <a href="/submit/">
+             Submit
+            </a>
+           </li>
+           <!-- <li><a href="#">Careers</a></li> -->
+          </ul>
+         </div>
+        </div>
+        <div class="col-6 col-md-4 mb-4 mb-md-0">
+         <div class="footer_menus">
+          <div class="fw-bold menu_title text-uppercase mb-3">
+           Topics
+          </div>
+          <ul class="d-flex flex-column footer-menu gap-2 list-unstyled mb-0 ps-0">
+           <li>
+            <a href="/category/politics/">
+             Politics
+            </a>
+           </li>
+           <li>
+            <a href="/category/science/">
+             Science
+            </a>
+           </li>
+           <li>
+            <a href="/category/culture/">
+             Culture
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="col-6 col-md-4">
+         <div class="footer_menus ps-lg-3">
+          <div class="fw-bold menu_title text-uppercase mb-3">
+           Help Center
+          </div>
+          <ul class="d-flex flex-column footer-menu gap-2 list-unstyled mb-0 ps-0">
+           <li>
+            <a href="#">
+             Free eBooks
+            </a>
+           </li>
+           <li>
+            <a href="#">
+             Development Tutorial
+            </a>
+           </li>
+           <li>
+            <a href="#">
+             How to - Blog
+            </a>
+           </li>
+           <li>
+            <a href="#">
+             Youtube Playlist
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script>
+   jQuery(document).ready(function(){
+	    jQuery("header#masthead .search-btn").on("click", function () {
+			// jQuery("header#masthead .menu-row").hide();
+			jQuery("header#masthead .header-search").fadeIn();
+			jQuery("header#masthead .header-search").addClass('active');
+		});
+
+		jQuery("header#masthead .hide-search").on("click", function () {
+			jQuery("header#masthead .header-search").removeClass('active');
+			jQuery("header#masthead .header-search").fadeOut();
+// 			jQuery("header#masthead .menu-row").fadeIn();
+// 			jQuery('.search_results').hide();
+		});
+		
+	    jQuery('header#masthead .mobile-menu .mobile-menu-toggle').click(function(){
+			jQuery(this).toggleClass('close');
+			jQuery('body header#masthead .mobile-menu .mm-panel').slideToggle();
+		});
+		jQuery('.mobile-menu .mm-panel ul li.menu-item-has-children').append('<span class="chevron-child"><i class="fa fa-chevron-down" aria-hidden="true"></i></span>');
+		jQuery('.mobile-menu .mm-panel ul li.menu-item-has-children .chevron-child').click(function(){
+			jQuery(this).parent().toggleClass('open-sub');
+		});
+	});
+  </script>
+ </body>
+</html>
+<script>
+ jQuery(document).ready(function($) {
+        $('#load-more').click(function() {
+            var button = $(this);
+            button.text('Loading...');
+            var page = button.data('page') + 1;
+
+            $.ajax({
+                url: 'https://www.sochfactcheck.com/wp-admin/admin-ajax.php',
+                type: 'POST',
+                data: {
+                    action: 'load_latest_posts',
+                    page: page
+                },
+                success: function(response) {
+                    if (response.success) {
+                        $('.latest-posts').append(response.data.posts);
+                        button.data('page', page);
+                        button.text('Load More');
+
+                        // Hide button if there are no more posts
+                        if (!response.data.has_more) {
+                            button.remove();
+                        }
+                    }
+                }
+            });
+        });
+    });
+</script>

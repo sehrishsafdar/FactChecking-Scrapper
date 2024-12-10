@@ -1,0 +1,21 @@
+import requests
+from bs4 import BeautifulSoup
+
+# URL of the webpage to scrape
+url = "https://www.sochfactcheck.com/latest-posts/"
+
+# Send an HTTP GET request to the URL
+response = requests.get(url)
+
+# Check if the request was successful
+if response.status_code == 200:
+    # Parse the HTML content of the page
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    # Save the entire HTML structure into a text file
+    with open("page_structure.txt", "w", encoding="utf-8") as file:
+        file.write(soup.prettify())
+    
+    print("HTML structure saved to 'page_structure.txt'.")
+else:
+    print(f"Failed to fetch the webpage. Status code: {response.status_code}")
