@@ -38,7 +38,7 @@ def load_latest_posts(page):
 
 def scrape_all_pages():
     
-    page = 0
+    page = 1
     
     all_pages_posts = []
 

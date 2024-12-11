@@ -1,9 +1,10 @@
 from bs4 import BeautifulSoup
+from utils.datetime_util import convert_to_datetime
 
-def extract_details(all_pages, url=None):  # Default url to None
-    articles = []
+def extract_one_page(content, url=None):
+        
+        articles = []
 
-    for content in all_pages:
         soup = BeautifulSoup(content, "html.parser")
         article_boxes = soup.find_all('div', class_='article-box')
             
@@ -12,7 +13,8 @@ def extract_details(all_pages, url=None):  # Default url to None
             article_link_tag = article_box.find('a', href=True)  
             article_date = article_box.find(class_='article-date') 
             article_claim = article_box.find(class_='article_excerpt')
-
+            article_label = article_box.find(class_ ='label')
+            
             # Initialize image_url to None for each article
             image_url = None
             
@@ -33,14 +35,28 @@ def extract_details(all_pages, url=None):  # Default url to None
                 # Check if the date was found
                 date = article_date.text.strip() if article_date else 'Unknown'  # Default to 'Unknown' if date is missing
                 claim = article_claim.text.strip() if article_claim else 'No claim available'
+                #label = article_label.text.strip()
+                label = article_label.text.strip() if article_label else "No Label"
+ 
+                convereted_date = convert_to_datetime(date)
 
                 # Append the article details including the image URL to the articles list
                 articles.append({
                     "Title": title,
                     "Link": full_link,
-                    "Date": date,
+                    "Date": convereted_date,
                     "Claim": claim,
-                    "Image": image_url  # Store the image URL here
+                    "Label": label,
+                    "Image": image_url  
                 })
 
-    return articles
+        return articles
+
+def extract_details(all_pages, url=None):  # Default url to None
+    
+    all_articles = []
+
+    for content in all_pages:
+        all_articles = all_articles + extract_one_page(content)
+
+    return all_articles
