@@ -53,6 +53,6 @@ def scrape_all_pages():
         print(f'Page {page} extracted successfully!')
 
         page += 1
-
+        
     print('--- Data crawled from all pages! ---')
     return all_pages_posts

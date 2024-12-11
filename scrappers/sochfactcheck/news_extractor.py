@@ -13,8 +13,9 @@ def extract_one_page(content, url=None):
             article_link_tag = article_box.find('a', href=True)  
             article_date = article_box.find(class_='article-date') 
             article_claim = article_box.find(class_='article_excerpt')
-            article_label = article_box.find(class_ ='label')
-            
+            #article_label = article_box.find(class_ ='label')
+            #article_label = article_box.find('span', class_='label')
+            article_label = article_box.find('div', class_='show-label')
             # Initialize image_url to None for each article
             image_url = None
             
@@ -36,7 +37,7 @@ def extract_one_page(content, url=None):
                 date = article_date.text.strip() if article_date else 'Unknown'  # Default to 'Unknown' if date is missing
                 claim = article_claim.text.strip() if article_claim else 'No claim available'
                 #label = article_label.text.strip()
-                label = article_label.text.strip() if article_label else "No Label"
+                label = article_label.text.strip()
  
                 convereted_date = convert_to_datetime(date)
 
