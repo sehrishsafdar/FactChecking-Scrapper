@@ -53,6 +53,8 @@ def scrape_all_pages():
         print(f'Page {page} extracted successfully!')
 
         page += 1
-        break
+        #if page == 30:
+        #break
+
     print('--- Data crawled from all pages! ---')
     return all_pages_posts

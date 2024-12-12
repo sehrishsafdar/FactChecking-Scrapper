@@ -45,11 +45,12 @@ def extract_one_page(content, url=None):
                 img_tag = featured_div.find('img')
                 if img_tag and img_tag.get('src'):
                     image_url = img_tag['src']
+                   
                     retrieved_image = get_image_from_url(image_url)
+                    image_rgb = retrieved_image.convert("RGB")
                     file_name = title_to_file_name(title)
                     save_path = os.path.join("sochfactcheck", file_name)
-                                  
-                    retrieved_image.save(save_path)
+                    image_rgb.save(save_path)
 
 
             link = article_link_tag['href'].strip()
