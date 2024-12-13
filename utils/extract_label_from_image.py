@@ -1,38 +1,40 @@
 import cv2
 import numpy as np
+from scrappers.sochfactcheck.news_extractor import extract_details
+from scrappers.sochfactcheck.crawl_all_news import scrape_all_pages
 
-# Load the images
-image_path = "C:\\Users\\PC\\scrappercode\\sochfactcheck\\afghan_singer_hasiba_noori_was_not_killed_in_peshawar.png"  # Source image path
-template_path = "C:\\Users\\PC\\scrappercode\\sfc_templates\\false.PNG"  # Template image path
 
-image = cv2.imread(image_path)
-template = cv2.imread(template_path)
 
-# Check if images are loaded properly
-if image is None or template is None:
-    print("Error: One or both images could not be loaded.")
-    exit()
+#image_folder = "sochfactcheck"
+#image_path = os.path.join(image_folder, title_to_file_name("Woman doctored into selfie of Maulana Fazlur Rehman and son"))
 
-# Perform template matching
-result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
 
-# Find the location of the best match
-min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
+# TODO: create a function get_image_label 
+# which receives an image as an argument and returns its label or None if no lable is found
 
-# Get the top-left corner of the matching region
-top_left = max_loc
 
-# Get the dimensions of the template
-template_height, template_width = template.shape[:2]
+def get_image_label(save_path):
+    #image_path = "sochfactcheck"
+    #image = cv2.imread(save_path)
+    image = cv2.imread(save_path, cv2.IMREAD_GRAYSCALE)
+    template_paths = [
+        ("False", r"sfc_templates\false.PNG"),
+        ("Misleading", r"sfc_templates\misleading.PNG"),
+        ("True", r"sfc_templates\true.PNG")
+    ]
+   
+    scores = []
 
-# Define the bottom-right corner based on template size
-bottom_right = (top_left[0] + template_width, top_left[1] + template_height)
+    for idx, template_path in enumerate(template_paths):
+        template = cv2.imread(template_path[1])
 
-# Draw a rectangle around the matching area (optional)
-cv2.rectangle(image, top_left, bottom_right, (0, 255, 0), 2)
+        result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
 
-# Save or display the result
-cv2.imwrite("matched_result.jpg", image)  # Save the image with matched pattern
-cv2.imshow("Matched Result", image)  # Display the image with the matched pattern
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+        min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
+
+        scores.append(max_val)
+    
+    idx = np.argmax(scores)
+    return (template_paths[idx][0])
+    #print(template_paths[idx][0])
+    

@@ -1,5 +1,5 @@
 import requests
-
+from utils import string_util
 def load_latest_posts(page):
     # Define the URL and data to send in the POST request
     url = 'https://www.sochfactcheck.com/wp-admin/admin-ajax.php'
@@ -38,7 +38,7 @@ def load_latest_posts(page):
 
 def scrape_all_pages():
     
-    page = 1
+    page = 19
     
     all_pages_posts = []
 
@@ -54,7 +54,7 @@ def scrape_all_pages():
 
         page += 1
         #if page == 30:
-        #break
+        break
 
     print('--- Data crawled from all pages! ---')
     return all_pages_posts
