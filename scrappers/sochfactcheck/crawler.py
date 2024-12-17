@@ -35,7 +35,8 @@ new_articles = []
 
 for article in extracted_recent_posts:
 
-    # Compare the article date with the target date  
+    # Compare the article date with the target date
+    #   
     if article["Date"] > last_date:
         new_articles.append(article)
 
@@ -45,7 +46,7 @@ else:
     # Append the new data to the CSV file
     with open(CSV_FILE, mode='a', newline='', encoding='utf-8') as csvfile:
         # Initialize the DictWriter
-        writer = csv.DictWriter(csvfile , fieldnames=["Title", "Link", "Date", "Claim", "Label", "Image"])
+        writer = csv.DictWriter(csvfile , fieldnames=["Title", "Link","posturl", "Date", "Claim", "Label", "Image"])
         
         # Write the data to the file (no need to write header if appending)
         writer.writerows(new_articles)

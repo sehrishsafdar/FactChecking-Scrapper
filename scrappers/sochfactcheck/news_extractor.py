@@ -1,29 +1,29 @@
+
+
+import os
+import re
+from PIL import Image
+import requests
+from io import BytesIO
 from bs4 import BeautifulSoup
 from utils.datetime_util import convert_to_datetime
 from utils.string_util import title_to_file_name
-import requests
-from PIL import Image
-from io import BytesIO
-import os
 
 def get_image_from_url(image_url):
-    
     response = requests.get(image_url)
-
     if response.status_code == 200:
         image = Image.open(BytesIO(response.content))
         return image
     return None
 
 def extract_one_page(content, url=None):
-    
     articles = []
-
     soup = BeautifulSoup(content, "html.parser")
     article_boxes = soup.find_all('div', class_='article-box')
 
     for article_box in article_boxes:
         article_title = article_box.find('h6')
+        h6_tag = soup.find('h6', class_='fs-4 my-2')
         article_link_tag = article_box.find('a', href=True)
         article_date = article_box.find(class_='article-date')
         article_claim = article_box.find(class_='article_excerpt')
@@ -36,7 +36,8 @@ def extract_one_page(content, url=None):
 
         # Extract title
         title = article_title.text.strip() if article_title else ''
-
+        if h6_tag:
+         post_url = h6_tag.find('a')['href']
         # Extract featured image
         featured_div = article_box.find('div', class_='featured-image')
         if featured_div:
@@ -47,20 +48,27 @@ def extract_one_page(content, url=None):
                 # Fetch and save the image
                 retrieved_image = get_image_from_url(image_url)
                 if retrieved_image:
+                    # Convert image to RGB
                     image_rgb = retrieved_image.convert("RGB")
+
+                    # Generate a sanitized file name
                     file_name = title_to_file_name(title)
+
+                    # Ensure valid file extension (e.g., .png, .jpg, or .jpeg)
+                    if not file_name.lower().endswith(('.png', '.jpg', '.jpeg')):
+                        file_name += '.png'
+
                     save_path = os.path.join("sochfactcheck", file_name)
 
-                    # Ensure valid file extension
-                    if not save_path.endswith(('.png', '.jpg', '.jpeg')):
-                        save_path += '.png'
-
                     # Save the image
-                    image_rgb.save(save_path)
-
-                    # Get label from the image
-                    from utils.extract_label_from_image import get_image_label  # Local import to avoid circular dependency
-                    image_label = get_image_label(save_path)
+                    try:
+                        image_rgb.save(save_path)
+                    except ValueError as e:
+                        print(f"Failed to save image at {save_path}. Error: {e}")
+                    else:
+                        # Get label from the image
+                        from utils.extract_label_from_image import get_image_label  # Local import to avoid circular dependency
+                        image_label = get_image_label(save_path)
 
         # Extract article link
         link = article_link_tag['href'].strip() if article_link_tag else ''
@@ -80,6 +88,7 @@ def extract_one_page(content, url=None):
         articles.append({
             "Title": title,
             "Link": full_link,
+            "posturl": post_url,
             "Date": converted_date,
             "Claim": claim,
             "Label": label,
@@ -89,10 +98,7 @@ def extract_one_page(content, url=None):
     return articles
 
 def extract_details(all_pages, url=None):
-    
     all_articles = []
-
     for content in all_pages:
         all_articles += extract_one_page(content, url)
-
     return all_articles

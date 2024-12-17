@@ -19,6 +19,6 @@ sorted_articles = sorted(
 
 with open("soch_factcheck_articles.csv", "w", newline="", encoding="utf-8") as csvfile:
 
-    writer = csv.DictWriter(csvfile, fieldnames=["Title", "Link", "Date", "Claim", "Label", "Image"])
+    writer = csv.DictWriter(csvfile, fieldnames=["Title", "Link", "posturl", "Date", "Claim", "Label", "Image"])
     writer.writeheader() 
     writer.writerows(sorted_articles)
